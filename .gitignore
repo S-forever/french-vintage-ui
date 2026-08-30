@@ -1,0 +1,24 @@
+# Git
+.git/
+
+# 字体文件（体积大，各有授权，不放 git）
+fonts/
+*.ttf
+*.otf
+*.woff
+*.woff2
+
+# 临时文件
+*.tmp
+*.log
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
